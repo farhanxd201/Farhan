@@ -47,8 +47,6 @@ def jalan(z):
 
 ##### LOGO #####
 logo = '''
-
-         ■●♡♡♡♡♡♡♡♡   FARHAN XD ♡♡♡♡♡
 \033[1;31;40m ▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅๑۩XP-H4CK3R۩๑▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
 \033[1;32;40m ➣Author©  → Muhammad Ibtasam
 \033[1;33;40m ➣Github   → https://github.com/XIDIPAKISTANI
