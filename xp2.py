@@ -46,7 +46,7 @@ def jalan(z):
 		time.sleep(0.07)
 
 ##### LOGO #####
-logo = 1
+logo = '''
 
          ■●♡♡♡♡♡♡♡♡   FARHAN XD ♡♡♡♡♡♡
                              
