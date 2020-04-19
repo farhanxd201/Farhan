@@ -85,7 +85,6 @@ def login():
 		menu() 
 	except (KeyError,IOError):
 		os.system('clear')
-		print logo1
 		print'\033[1;31;40m●═══════════════════════◄►═══════════════════════●'
 		print' \033[1;92mWarning: \033[1;97 dont usee ur old acc wrna gand my danda jayega'														
 		print' \033[1;92mNote   : \033[1;97mUse a Fresh Account To Login🔥' 
