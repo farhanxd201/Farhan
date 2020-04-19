@@ -46,7 +46,7 @@ def jalan(z):
 		time.sleep(0.07)
 
 ##### LOGO #####
-logo = """
+logo = 1
 
          ■●♡♡♡♡♡♡♡♡   FARHAN XD ♡♡♡♡♡♡
                              
@@ -90,7 +90,7 @@ def login():
 		os.system('clear')
 		print logo2
 		print'\033[1;31;40m●═══════════════════════◄►═══════════════════════●'
-		print' \033[1;92mWarning: \033[1;97mDo Not Use Your Real Account' 															
+		print' \033[1;92mWarning: \033[1;97 dont usee ur old acc wrna gand my danda jayega'														
 		print' \033[1;92mNote   : \033[1;97mUse a Fresh Account To Login🔥' 
 		print'\033[1;36;40m●═══════════════════════◄►═══════════════════════●'	
 		id = raw_input('\033[1;96m[+] \x1b[1;92mID/Email\x1b[1;92m ➣ \x1b[1;96m')
