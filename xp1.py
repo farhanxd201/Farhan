@@ -460,8 +460,7 @@ def brute():
                     print '\x1b[1;91m[!] Connection Error'
                     time.sleep(1)
 
-        except IOError:
-            print '\x1b[1;91m[!] File not found...'
+        except IOError
             print """\n\x1b[1;91m[!] \x1b[1;92mLooks like you don't have a wordlist"""
             super()
 
